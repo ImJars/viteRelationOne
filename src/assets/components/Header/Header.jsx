@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return (
     <>
-        <div className='w-full h-14 bg-orange-200'>
+        <div className='fixed w-full h-14 bg-orange-200'>
             <div className='flex h-full justify-between items-center mx-10'>
                 <div>   
                     <div>
