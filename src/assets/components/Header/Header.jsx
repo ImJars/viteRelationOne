@@ -3,15 +3,14 @@ import React from 'react'
 function Header() {
   return (
     <>
-        <div className='fixed w-full h-14 bg-orange-200'>
+        <div className='fixed w-full h-14 bg-white'>
             <div className='flex h-full justify-between items-center mx-10'>
                 <div>   
                     <div>
                         <ul className='flex space-x-6'>
-                            <li>Home</li>
-                            <li>Home</li>
-                            <li>Home</li>
-                            <li>Home</li>
+                            <li>Paulette & Angel</li>
+                            <li>Historia</li>
+                            <li>Proximamente</li>
                         </ul>
                     </div>
                 </div>
