@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './assets/components/Header/Header'
-import Home from './assets/Home/Home'
+import Home from './Home'
 
 function App() {
   return (
