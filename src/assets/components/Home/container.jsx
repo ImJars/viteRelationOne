@@ -1,4 +1,5 @@
 import React from 'react'
+import RotatingText from '../rotatingText'
 
 function Container() {
   return (
@@ -15,6 +16,7 @@ function Container() {
                                 <h2 className='text-4xl font-thin mt-2'>
                                     Nuestra Historia
                                 </h2>
+                                <RotatingText />
                             </div>
                         </div>
                     </div>

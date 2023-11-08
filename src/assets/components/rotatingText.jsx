@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import ReactRotatingText from "react-rotating-text";
 
 function RotatingText() {
-  return (
-    <div>RotatingText</div>
-  )
+    return (
+    <>
+      <div>
+        <ReactRotatingText items={["first", "second", "third"]} />
+      </div>
+    </>
+  );
 }
 
-export default RotatingText
+export default RotatingText;
