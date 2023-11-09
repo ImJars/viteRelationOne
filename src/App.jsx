@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './assets/components/Header/Header'
 import Home from './Home'
+import SectionOne from './sectionOne'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <section className='w-full h-screen'>
         <Header />
         <Home />
+        <SectionOne />
       </section>
     </>
   )
