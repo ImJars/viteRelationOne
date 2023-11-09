@@ -6,7 +6,7 @@ import SectionOne from './sectionOne'
 function App() {
   return (
     <>
-      <section className='w-full h-screen'>
+      <section className='w-full h-full'>
         <Header />
         <Home />
         <SectionOne />
