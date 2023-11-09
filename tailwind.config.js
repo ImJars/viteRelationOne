@@ -15,7 +15,10 @@ export default {
         poppins: ["Poppins", "sans-serif"],
         roboto: ["Roboto", "sans-serif"],
       },
+      colors: {
+        'wine': "#722f37",
+      },
     },
-  },
+    },
   plugins: [],
 }
