@@ -14,6 +14,7 @@ export default {
         openSans: ["Open Sans", "sans-serif"],
         poppins: ["Poppins", "sans-serif"],
         roboto: ["Roboto", "sans-serif"],
+        EduTASBeginner: ["EduTASBeginner", "sans-serif"],
       },
       colors: {
         'wine': "#722f37",
